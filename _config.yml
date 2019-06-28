@@ -10,8 +10,7 @@ paginate:	5 # The number of posts to show per page on your homepage
 
 # Social
 facebook: facebook
-twitter: twitter
-github:  github
+github:  https://github.com/yfsui
 
 #Additional Pages
 about: about
