@@ -5,12 +5,12 @@ description: Jekyll Theme Minimal Resume
 # url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
-username: yfsui
-user_description: I'm a nomad Software Engineer, always searching for the next challenge; no task is too scary nor too difficult. Lately I have been immersed in the <b>crypto-world</b> working for Radix, a London based startup trying to create the next massive scalable DLT.. I'm one of the two guys behind all the JS related stuff. Visit my blog here":" <a href="https://mauriciourraco.com" target="_blank">https://mauriciourraco.com</a>
+username: Yufeng Sui
+user_description: I'm a graduate student at Columbia University, pursing a Master of Science degree in Business Analytics.
 user_title: Data Analyst
 email: yufeng.sui@columbia.edu
 linkedin_username: aurelia-sui
-github_username:  yfsui
+github_username: yfsui
 # gplus_username:  lorem_ipsum
 
 # Google-analytics
