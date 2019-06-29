@@ -1,5 +1,5 @@
 # Site settings
-title: Personal website
+title: Yufeng Sui
 description: Jekyll Theme 
 # baseurl: "" # the subpath of your site, e.g. /blog
 # url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
@@ -7,7 +7,7 @@ description: Jekyll Theme
 # User settings
 username: Yufeng Sui
 user_description: I'm a graduate student at Columbia University, pursing a Master of Science degree in Business Analytics.
-user_title: Full-time learner   Part-time adventurer
+user_title: 
 email: yufeng.sui@columbia.edu
 github_username: yfsui
 
